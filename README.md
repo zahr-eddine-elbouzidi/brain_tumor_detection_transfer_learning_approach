@@ -1,4 +1,4 @@
-# Brain tumor segmentation in MRI images using U-Net
+# Brain tumor segmentation in MRI images using U-Net, U-Net and Attention U-Net with Transfer Learning Approach
 
 Here, I have implemented a U-Net from the paper ["U-Net: Convolutional Networks for Biomedical
 Image Segmentation"](https://arxiv.org/pdf/1505.04597.pdf) to segment tumor in MRI images of brain.
@@ -40,14 +40,15 @@ I have used the metric called IOU (Intersection over Union) metric to track prog
 Detailed architecure is given below.
 ![Unet Architecture](screenshots/unet-tumor-seg.png)
 
-## Possible Improvements
-1. Can use transfer learning to utilize state-of-the-art model like VGG, Inception, Resnet.
-2. We can use more types of image augmentation like vertical flip, brightness, zoom etc.
-3. Include lovasz loss with higher weightage.
-4. Learn and use Hypercolumns
 
-## Author:
-* Aditya Jain : [Portfolio](https://adityajain.me)
+
+## Supervised By :
+* Mr Professor  : EL QADI ABDERRAHIM
+
+
+## Authors:
+* Mr. EL BOUZIDI ZAHR-EDDINE : [LinkedIn](https://www.linkedin.com/in/zahr-eddine-el-bouzidi-7b4366a5/)
+* Mr. GUIIDAT AHMED-AMINE : [LinkedIn](https://www.linkedin.com/in/guiidat/)
 
 ## To Read:
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
