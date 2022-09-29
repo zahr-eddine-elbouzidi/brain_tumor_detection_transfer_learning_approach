@@ -36,14 +36,11 @@ I have used combination of multiple losses which includes binary crossentropy, d
 
 I have used the metric called IOU (Intersection over Union) metric to track progress of training and trained Unet with Adam optimizer for 40-60 epochs with decaying learning rate between 1e-3 to 1e-4. I have also performed only one Image augmentation i.e. horizontal flip. Train and test split was stratified using type of tumor.
 
-![Performance](screenshots/performance2.png)
 
-
-Detailed architecure is given below.
-![Unet Architecture](screenshots/unet-tumor-seg.png)
-<img width="1010" alt="Screen Shot 2022-09-17 at 22 22 56" src="https://user-images.githubusercontent.com/38129966/193053863-de93e6e7-4826-456d-aaa5-53a4a9aebeb8.png">
-<img width="855" alt="Screen Shot 2022-09-18 at 00 38 51" src="https://user-images.githubusercontent.com/38129966/193053912-569ca5d9-972b-45f4-be7e-f9bf07f6c71a.png">
+<img width="964" alt="Screen Shot 2022-09-17 at 22 22 56" src="https://user-images.githubusercontent.com/38129966/193053863-de93e6e7-4826-456d-aaa5-53a4a9aebeb8.png">
+<img width="964" alt="Screen Shot 2022-09-18 at 00 38 51" src="https://user-images.githubusercontent.com/38129966/193053912-569ca5d9-972b-45f4-be7e-f9bf07f6c71a.png">
 <img width="964" alt="Screen Shot 2022-09-18 at 00 27 45" src="https://user-images.githubusercontent.com/38129966/193053937-149e9f32-9383-4a05-ad3f-4abbfcdf239d.png">
+
 
 
 
