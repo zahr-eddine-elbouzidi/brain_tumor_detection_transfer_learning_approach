@@ -1,7 +1,9 @@
 # Brain tumor segmentation in MRI images using U-Net, U-Net and Attention U-Net with Transfer Learning Approach
 
-Here, I have implemented a U-Net from the paper ["U-Net: Convolutional Networks for Biomedical
-Image Segmentation"](https://arxiv.org/pdf/1505.04597.pdf) to segment tumor in MRI images of brain.
+Brain tumour segmentation is one of the most crucial and challenging tasks in the field of medical image processing as human-assisted manual classification can lead to accurate prediction and diagnosis. Moreover, it becomes a tedious task when there is a large amount of data present to process manually. Brain tumours have diversified appearance and there is a similarity between tumour and normal tissue and therefore there extraction of tumour regions from images becomes complicated. 
+In this master work, we developed models to extract brain tumour from 2D magnetic resonance (MRI) brain images by algorithms and deep learning methods, based on different approaches developed for semantic image segmentation in the Biomedical field.
+
+Here, I have implemented a diffents architectures U-Net, U-Net++ and Attention U-Net  to segment tumor in MRI images of brain.
 
 There are 3 types of brain tumor:
 1. meningioma
@@ -39,6 +41,9 @@ I have used the metric called IOU (Intersection over Union) metric to track prog
 
 Detailed architecure is given below.
 ![Unet Architecture](screenshots/unet-tumor-seg.png)
+<img width="1010" alt="Screen Shot 2022-09-17 at 22 22 56" src="https://user-images.githubusercontent.com/38129966/193053863-de93e6e7-4826-456d-aaa5-53a4a9aebeb8.png">
+<img width="855" alt="Screen Shot 2022-09-18 at 00 38 51" src="https://user-images.githubusercontent.com/38129966/193053912-569ca5d9-972b-45f4-be7e-f9bf07f6c71a.png">
+<img width="964" alt="Screen Shot 2022-09-18 at 00 27 45" src="https://user-images.githubusercontent.com/38129966/193053937-149e9f32-9383-4a05-ad3f-4abbfcdf239d.png">
 
 
 
