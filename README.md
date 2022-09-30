@@ -49,8 +49,8 @@ I have used the metric called IOU (Intersection over Union) metric to track prog
 
 
 ## Authors:
-* Mr. EL BOUZIDI ZAHR-EDDINE : [LinkedIn](https://www.linkedin.com/in/zahr-eddine-el-bouzidi-7b4366a5/)
-* Mr. GUIIDAT AHMED-AMINE : [LinkedIn](https://www.linkedin.com/in/guiidat/)
+* Mr. EL BOUZIDI ZAHR-EDDINE : [LinkedIn](https://www.linkedin.com/in/zahr-eddine-el-bouzidi-7b4366a5/) elbouzidi.zahreddine@moroccoresearchers.com
+* Mr. GUIIDAT AHMED-AMINE : [LinkedIn](https://www.linkedin.com/in/guiidat/) amine.guiidat@moroccoresearchers.com
 ## Website :
 https://moroccoresearchers.com/
 
